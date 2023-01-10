@@ -18,3 +18,6 @@ To use on a file:
 When new characters are added, simply go to Language -> User Defined Languaged -> Define your language...
 and add them to the correct Keywords List on the Keywords tab
 feel free to customize the colour using the styler or add new keywords
+
+[Download](https://github.com/KesshiDesu/Genshin-Tools/releases/download/v0.1/Genshin.Text.xml)
+======
